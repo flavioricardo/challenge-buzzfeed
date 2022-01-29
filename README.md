@@ -8,6 +8,6 @@ Requires [Node.js](https://nodejs.org/) v10+ to run. Clone the repository [https
 
 ```sh
 git clone https://github.com/flavioricardo/challenge-buzzfeed.git
-yarn install
+yarn
 node index.js
 ```
