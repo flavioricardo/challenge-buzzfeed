@@ -11,3 +11,6 @@ git clone https://github.com/flavioricardo/challenge-buzzfeed.git
 yarn
 node index.js
 ```
+### Challenge statement
+
+Given a GitHub username, write a script to find the unique languages used across the user's open source repositories, along with a count of how many times each language occurs. The languages along with their counts should be written to stdout, one per line.
